@@ -42,7 +42,7 @@ Projekt zawiera:
 ## Prototyp UI
 Prototyp aplikacji został wykonany w Figma.
 
-Link: https://www.figma.com/make/DiftrssNyH2CBXGHedLSID/Film-Renting-Website?t=7z7y2jmWNFKKRaRs-1
+Link: https://www.figma.com/make/DiftrssNyH2CBXGHedLSID/Film-Renting-Website?t=H5Uz0IabVTCvDsAJ-20&fullscreen=1
 
 ##  Cel
 Projekt wykonany w celu nauki projektowania systemów bazodanowych oraz analizy struktury danych.
